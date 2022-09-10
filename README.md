@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🎓 I've graduated from University of Exeter with a MSc. Data Science with Artificial Intelligence 
+- 🌱 I’m a Data Scientist enthusiastic
+- ⚡ My goal is to discover, analyze and harness the power of 'data' 
 <!--
 **naraekim12/naraekim12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
