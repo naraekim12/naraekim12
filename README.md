@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🎓 I've graduated from University of Exeter with a MSc. Data Science with Artificial Intelligence 
+- 🎓 I've graduated from University of Exeter - MSc. Data Science with Artificial Intelligence 
 - 🌱 I’m a Data Scientist enthusiastic
 - ⚡ My goal is to discover, analyze and harness the power of 'data' 
 <!--
