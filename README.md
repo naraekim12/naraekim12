@@ -2,7 +2,8 @@
 
 - 🎓 I've graduated from University of Exeter - MSc. Data Science with Artificial Intelligence 
 - 🌱 I’m a Data Scientist enthusiastic
-- ⚡ My goal is to discover, analyze and harness the power of 'data' 
+- 🔭 I currently work as an AI researcher at Hallym University Kangnam Sacred Heart Hospital
+- ⚡ My career goal is to discover and harness the power of 'healthcare data' 
 <!--
 **naraekim12/naraekim12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
