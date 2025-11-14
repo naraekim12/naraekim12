@@ -2,8 +2,8 @@
 
 - 🎓 I've graduated from University of Exeter - MSc. Data Science with Artificial Intelligence 
 - 🌱 I’m a Data Scientist enthusiastic
-- 🔭 I previously worked as an AI researcher at Hallym University Kangnam Sacred Heart Hospital. I am currently pursuing a PhD in Digital Health at Samsung Advanced Institute for Health Science & Technology (SAIHST), Sungkyunkwan University
-- ⚡ My goal is to improve the quality of healthcare for both physicians and patients by developing and providing healthcare technologies. 
+- 🔭 I previously worked as an AI researcher at Hallym University Kangnam Sacred Heart Hospital. 
+- ⚡ I am currently pursuing a PhD in Digital Health at Samsung Advanced Institute for Health Science & Technology (SAIHST), Sungkyunkwan University
 <!--
 **naraekim12/naraekim12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
